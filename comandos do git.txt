@@ -1,0 +1,3 @@
+git init --> [iniciar uma pasta no git],
+git status --> [para saber quais arquivos estão atualizados, e quais arquivos ja foram incluidos no controle de versão],
+git add "nome arquivo" --> [para adiocionar no controle de versão(arquivo por arquivo)]
