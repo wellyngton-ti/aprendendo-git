@@ -1,3 +1,13 @@
 git init --> [iniciar uma pasta no git],
 git status --> [para saber quais arquivos estão atualizados, e quais arquivos ja foram incluidos no controle de versão],
-git add "nome arquivo" --> [para adiocionar no controle de versão(arquivo por arquivo)]
+git add "nome arquivo" --> [para adiocionar no controle de versão(arquivo por arquivo)],
+git add . --> [para adicionar no controle de versao(todos arquivos dentro da pasta)],
+git commit -m "nome do commit" --> [para criar uma versão],
+git config --global user.email "email" --> [para configurar em qual email do git vai ser criado],
+git config --global user.name "nome" --> [para adicionar seu nome ao git],
+
+
+
+
+
+
