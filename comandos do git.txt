@@ -5,6 +5,8 @@ git add . --> [para adicionar no controle de versao(todos arquivos dentro da pas
 git commit -m "nome do commit" --> [para criar uma versão],
 git config --global user.email "email" --> [para configurar em qual email do git vai ser criado],
 git config --global user.name "nome" --> [para adicionar seu nome ao git],
+git remote add origin https://github.com/wellyngton-ti/aprendendo-git --> [definir o repositorio no git que é para salvar],
+git push --> [para enviar as alterações para o git]
 
 
 
