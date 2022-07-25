@@ -6,8 +6,12 @@ git commit -m "nome do commit" --> [para criar uma versão],
 git config --global user.email "email" --> [para configurar em qual email do git vai ser criado],
 git config --global user.name "nome" --> [para adicionar seu nome ao git],
 git remote add origin https://github.com/wellyngton-ti/aprendendo-git --> [definir o repositorio no git que é para salvar],
-git push --> [para enviar as alterações para o git]
-
+git push --> [para enviar as alterações para o git],
+git reflog --> [ver o historico de versões],
+git reset --hard id_versao --> [para voltar a versão anterior],
+git branch --> [para verificar quantas branchs tem],
+git branch nomeDaBranch --> [para criar uma nova branch],
+git checkout nomeDaBranch --> [para alterar de branch],
 
 
 
